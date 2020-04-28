@@ -25,7 +25,7 @@ export default class App extends React.Component {
   render(){
   return (
     <div className="App">
-      <p>{this.state.value}</p>
+      <p style={{fontSize:'30px',color:'black'}}>{this.state.name}</p>
       <input name="name" value={this.state.value} onChange={this.handleChange} />
       <button onClick={this.handleSubmit}>Check</button>
     </div>
