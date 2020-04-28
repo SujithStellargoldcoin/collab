@@ -2,10 +2,10 @@
 
 # Steps 
 
-# git clone https://github.com/SujithStellargoldcoin/collab.git
+ git clone https://github.com/SujithStellargoldcoin/collab.git
 
-# cd collab
+ cd collab
 
-# npm install
+ npm install
 
-# npm run start
+ npm run start
